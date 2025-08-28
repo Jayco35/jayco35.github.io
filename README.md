@@ -1,2 +1,2 @@
-# jayc35.github.io
+# jayco35.github.io
 website 
